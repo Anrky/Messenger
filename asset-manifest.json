@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anrky/Messenger.git/static/css/main.6a4f1637.chunk.css",
+    "main.js": "/Anrky/Messenger.git/static/js/main.a8e22151.chunk.js",
+    "main.js.map": "/Anrky/Messenger.git/static/js/main.a8e22151.chunk.js.map",
+    "runtime-main.js": "/Anrky/Messenger.git/static/js/runtime-main.530a0d0a.js",
+    "runtime-main.js.map": "/Anrky/Messenger.git/static/js/runtime-main.530a0d0a.js.map",
+    "static/js/2.8693396e.chunk.js": "/Anrky/Messenger.git/static/js/2.8693396e.chunk.js",
+    "static/js/2.8693396e.chunk.js.map": "/Anrky/Messenger.git/static/js/2.8693396e.chunk.js.map",
+    "index.html": "/Anrky/Messenger.git/index.html",
+    "static/css/main.6a4f1637.chunk.css.map": "/Anrky/Messenger.git/static/css/main.6a4f1637.chunk.css.map",
+    "static/js/2.8693396e.chunk.js.LICENSE.txt": "/Anrky/Messenger.git/static/js/2.8693396e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.530a0d0a.js",
+    "static/js/2.8693396e.chunk.js",
+    "static/css/main.6a4f1637.chunk.css",
+    "static/js/main.a8e22151.chunk.js"
+  ]
+}
