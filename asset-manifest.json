@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Anrky/Messenger.git/static/css/main.6a4f1637.chunk.css",
-    "main.js": "/Anrky/Messenger.git/static/js/main.a8e22151.chunk.js",
-    "main.js.map": "/Anrky/Messenger.git/static/js/main.a8e22151.chunk.js.map",
-    "runtime-main.js": "/Anrky/Messenger.git/static/js/runtime-main.530a0d0a.js",
-    "runtime-main.js.map": "/Anrky/Messenger.git/static/js/runtime-main.530a0d0a.js.map",
-    "static/js/2.8693396e.chunk.js": "/Anrky/Messenger.git/static/js/2.8693396e.chunk.js",
-    "static/js/2.8693396e.chunk.js.map": "/Anrky/Messenger.git/static/js/2.8693396e.chunk.js.map",
-    "index.html": "/Anrky/Messenger.git/index.html",
-    "static/css/main.6a4f1637.chunk.css.map": "/Anrky/Messenger.git/static/css/main.6a4f1637.chunk.css.map",
-    "static/js/2.8693396e.chunk.js.LICENSE.txt": "/Anrky/Messenger.git/static/js/2.8693396e.chunk.js.LICENSE.txt"
+    "main.css": "/Messenger/static/css/main.6a4f1637.chunk.css",
+    "main.js": "/Messenger/static/js/main.a8e22151.chunk.js",
+    "main.js.map": "/Messenger/static/js/main.a8e22151.chunk.js.map",
+    "runtime-main.js": "/Messenger/static/js/runtime-main.89c58ca6.js",
+    "runtime-main.js.map": "/Messenger/static/js/runtime-main.89c58ca6.js.map",
+    "static/js/2.8693396e.chunk.js": "/Messenger/static/js/2.8693396e.chunk.js",
+    "static/js/2.8693396e.chunk.js.map": "/Messenger/static/js/2.8693396e.chunk.js.map",
+    "index.html": "/Messenger/index.html",
+    "static/css/main.6a4f1637.chunk.css.map": "/Messenger/static/css/main.6a4f1637.chunk.css.map",
+    "static/js/2.8693396e.chunk.js.LICENSE.txt": "/Messenger/static/js/2.8693396e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.530a0d0a.js",
+    "static/js/runtime-main.89c58ca6.js",
     "static/js/2.8693396e.chunk.js",
     "static/css/main.6a4f1637.chunk.css",
     "static/js/main.a8e22151.chunk.js"
